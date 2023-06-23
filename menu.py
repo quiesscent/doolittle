@@ -1,0 +1,56 @@
+def menu():
+    print("\t\t\t\t\t\t\tDOOLITTLE VCAFE")
+    print("\t\t\tBreakfast\t\t\t\t\tLunch\t\t\t\t\tDinner")
+    print("\t\t\t-------------------------------------------------------------------------------------------------------")
+    print("\t\t\tBlack tea........................20.00| Kung Pao Chicken........200.00| Soup.....................60.00| ")
+    print("\t\t\tCereals..........................50.00| Muo Butter..............200.00| Mushroom Chilly.........200.00| ")
+    print("\t\t\tFruit Smoothies.................100.00| Korean Bibimbab.........200.00| Pancer Sathe..........1,200.00| ")
+    print("\t\t\tSandwich Combo...................70.00| Chicado Deep Dish.......200.00| Soyabean Chilly.......2,000.00| ")
+    print("\t\t\tFruit Cream Cheese...............80.00| Buffalo Wings...........200.00| Veg-lolly Pop...........200.00| ")
+    print("\t\t\tAvocado Toast...................140.00| Meat Loaf...............200.00| Talumein Soup...........500.00| ")
+    print("\t\t\tChai Tea Latte..................115.00| Roasted Chicken.........200.00| Tum Yium Soup...........900.00| ")
+    print("\t\t\tWaffles and Cappuccino..........200.00| Chicken Fried Steak.....200.00| Steak Tartar..........1,500.00| ")
+    print("\t\t\tLemonades.......................90.00 | Pizza Capricassa........200.00| Texas Barbecue........2,500.00| ")
+    print("\t\t\t-------------------------------------------------------------------------------------------------------")
+
+
+def breakfast_menu():
+    print("\t\t\t\t\t\t\t--------------------------------------|Code")
+    print("\t\t\t\t\t\t\tBlack tea........................20.00|Br24")
+    print("\t\t\t\t\t\t\tCereals..........................50.00|Br46")
+    print("\t\t\t\t\t\t\tFruit Smoothies.................100.00|Br54")
+    print("\t\t\t\t\t\t\tSandwich Combo...................70.00|Br78")
+    print("\t\t\t\t\t\t\tFruit Cream Cheese...............80.00|Br56")
+    print("\t\t\t\t\t\t\tAvocado Toast...................140.00|Br34")
+    print("\t\t\t\t\t\t\tChai Tea Latte..................115.00|Br89")
+    print("\t\t\t\t\t\t\tWaffles and Cappuccino..........200.00|Br21")
+    print("\t\t\t\t\t\t\tLemonades.......................90.00 |Br12")
+    print("\t\t\t\t\t\t\t-------------------------------------------")
+
+
+def lunch_menu():
+    print("\t\t\t\t\t\t\t-------------------------------|Code")
+    print("\t\t\t\t\t\t\tKung Pao Chicken........2000.00|Lr50")
+    print("\t\t\t\t\t\t\tMuo Butter.............. 500.00|Lr15")
+    print("\t\t\t\t\t\t\tKorean Bibimbab.........1000.00|Lr30")
+    print("\t\t\t\t\t\t\tChicado Deep Dish....... 900.00|Lr55")
+    print("\t\t\t\t\t\t\tBuffalo Wings........... 700.00|Lr70")
+    print("\t\t\t\t\t\t\tMeat Loaf...............2500.00|Lr40")
+    print("\t\t\t\t\t\t\tRoasted Chicken.........2000.00|Lr65")
+    print("\t\t\t\t\t\t\tChicken Fried Steak.....1200.00|Lr45")
+    print("\t\t\t\t\t\t\tPizza Capricassa........2000.00|Lr05")
+    print("\t\t\t\t\t\t\t------------------------------------")
+
+
+def dinner_menu():
+    print("\t\t\t\t\t\t\t------------------------------|Code")
+    print("\t\t\t\t\t\t\tSoup.....................60.00|Di08")
+    print("\t\t\t\t\t\t\tMushroom Chilly.........200.00|Di04")
+    print("\t\t\t\t\t\t\tPancer Sathe..........1,200.00|Di07")
+    print("\t\t\t\t\t\t\tSoyabean Chilly.......2,000.00|Di03")
+    print("\t\t\t\t\t\t\tVeg-lolly Pop...........200.00|Di10")
+    print("\t\t\t\t\t\t\tTalumein Soup...........500.00|Di21")
+    print("\t\t\t\t\t\t\tTum Yium Soup...........900.00|Di19")
+    print("\t\t\t\t\t\t\tSteak Tartar..........1,500.00|Di12")
+    print("\t\t\t\t\t\t\tTexas Barbecue........2,500.00|Di88")
+    print("\t\t\t\t\t\t\t-----------------------------------")
