@@ -15,7 +15,7 @@ if make == 1:
                         Lunch - Lr
                         Dinner - Di
                         Specials - Sp''')
-# set the constraint to a specific number of value for specials and zero for the others
+
         orders()
     else:
         system('clear')
