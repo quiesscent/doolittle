@@ -3,7 +3,7 @@ from receipt_main import *
 
 
 def orders():
-    order = input("\t\t\t\t\t\tI would love a meal from:::")
+    order = input("\t\t\t\t\t\tI would woould would love a meal from:::")
     breakfast, lunch, Dinner = 'Br', 'Lr', 'Di'
     if breakfast == order:
         print("\t\t\t\t\t\tSeems Someone is still in the morning")
